@@ -18,10 +18,11 @@
 
 ## Using Languages
 <p align='left'>
-    <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
-    <img height="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" title="C++">
-    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
     <img height="40" src=https://img.icons8.com/?size=100&id=40670&format=png&color=000000 title="C">
+    <img height="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" title="C++">
+    <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
+    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
+
 </p>
 
 ## Using Tools
