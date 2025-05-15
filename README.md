@@ -1,16 +1,32 @@
-## Hi there 👋
+<p align='center'>
+  <a href="https://github.com/hugoMGSung">
+    <img src=https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=monyagun's%20Dev%20Repo&fontColor=005155&fontSize=60&animation=blinking&fontAlignY=50/>
+  </a>
+</p>
 
-<!--
-**pgh157/pgh157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
+- `Name` : monyagun
 
-Here are some ideas to get you started:
+## GitHub Stat and Languages
+<!-- username은 본인걸로 -->
+<p align='center'>
+  <a href="https://github.com/monyagun">
+    <img src="https://github-readme-stats.vercel.app/api?username=monyagun&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monyagun&theme=tokyonight&layout=compact"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Using Languages
+<p align='left'>
+    <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
+    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
+    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
+    <img height="40" src=https://img.icons8.com/?size=100&id=25423&format=png&color=000000 title="C">
+</p>
+
+## Using Tools
+<p align='left'>
+  <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
+  <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
