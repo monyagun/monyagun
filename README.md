@@ -32,8 +32,5 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-<img src="https://ghchart.rshah.org/333333/monyagun" />
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
